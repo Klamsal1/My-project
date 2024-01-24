@@ -17,7 +17,7 @@ public class School {
         School s = new School();
         s.add(5,7);
         s.add(5.4,6.7);
-
+       // more precious
     }
 
 }

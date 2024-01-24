@@ -1,2 +1,2 @@
 # My-project
-This repo is use case during my study
+This repo is use case during mmy practice
